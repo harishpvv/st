@@ -5,3 +5,5 @@ st.write("""
 
 Hello everyone
 """)
+
+st.latex(r''' e^{i\pi} + 1 = 0 ''')
